@@ -9,17 +9,17 @@
     <lastBuildDate>Wed, 04 Jun 2025 15:46:20 +0700</lastBuildDate>
     <atom:link href="http://localhost:1313/randomthoughts/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Awesome Post</title>
-      <link>http://localhost:1313/randomthoughts/posts/my-first-awesome-post/</link>
+      <title>Reactivate my random thoughts</title>
+      <link>http://localhost:1313/randomthoughts/posts/reactivate-random-thoughts/</link>
       <pubDate>Wed, 04 Jun 2025 15:46:20 +0700</pubDate>
-      <guid>http://localhost:1313/randomthoughts/posts/my-first-awesome-post/</guid>
+      <guid>http://localhost:1313/randomthoughts/posts/reactivate-random-thoughts/</guid>
       <description></description>
     </item>
     <item>
-      <title>My First Trip to Chiangmai</title>
-      <link>http://localhost:1313/randomthoughts/posts/my-first-trip-to-chiangmai/</link>
+      <title>Github host and SSGs with Hugo</title>
+      <link>http://localhost:1313/randomthoughts/posts/github-ssg-hugo/</link>
       <pubDate>Wed, 04 Jun 2025 13:40:48 +0700</pubDate>
-      <guid>http://localhost:1313/randomthoughts/posts/my-first-trip-to-chiangmai/</guid>
+      <guid>http://localhost:1313/randomthoughts/posts/github-ssg-hugo/</guid>
       <description></description>
     </item>
   </channel>
