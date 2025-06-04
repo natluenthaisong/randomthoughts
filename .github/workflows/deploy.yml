@@ -31,7 +31,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      HUGO_VERSION: 0.125.4 # ณัฐสามารถเปลี่ยนเป็นเวอร์ชัน Hugo ที่ต้องการได้ หรือลบบรรทัดนี้เพื่อให้ใช้เวอร์ชันล่าสุดที่ action รองรับ
+      HUGO_VERSION: 0.147.7 # ณัฐสามารถเปลี่ยนเป็นเวอร์ชัน Hugo ที่ต้องการได้ หรือลบบรรทัดนี้เพื่อให้ใช้เวอร์ชันล่าสุดที่ action รองรับ
     steps:
       - name: Install Hugo CLI
         run: |
