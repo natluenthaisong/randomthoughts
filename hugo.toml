@@ -1,4 +1,4 @@
 baseURL = "https://natluenthaisong.github.io/randomthoughts/"
 languageCode = 'en-us'
 title = 'Random Thoughts'
-theme = "Paper"
+theme = "hugo-paper"
