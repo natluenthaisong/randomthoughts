@@ -12,18 +12,17 @@
             padding: 0;
             background-color: #ffffff;
             color: #000000;
-            text-align: left; /* Ensure all text defaults to left */
+            text-align: left; 
         }
         .container {
             width: 90%;
             max-width: 700px;
-            margin: 25px auto;
+            margin: 25px 0; /* Changed from '25px auto' to '25px 0' for left alignment */
             overflow: hidden;
             padding: 15px;
             background-color: #ffffff;
         }
         header {
-            /* text-align: center; Removed for left alignment */
             padding-bottom: 10px;
             margin-bottom: 15px;
             border-bottom: 1px solid #f0f0f0;
@@ -51,7 +50,7 @@
         }
         .section ul {
             list-style-type: disc;
-            padding-left: 20px; /* Adjusted for better visual alignment of bullets */
+            padding-left: 20px; 
         }
         .section ul li {
             margin-bottom: 4px;
@@ -60,8 +59,7 @@
             font-weight: 500;
         }
         footer {
-            /* text-align: center; Removed for left alignment */
-            padding: 10px 0; /* Adjusted padding for left alignment */
+            padding: 10px 0; 
             margin-top: 20px;
             border-top: 1px solid #f0f0f0;
             font-size: 0.75em;
@@ -72,6 +70,7 @@
             .container {
                 width: 95%;
                 padding: 12px;
+                /* margin: 25px 0; will be inherited, or can be specified if different behavior is needed */
             }
             header h1 {
                 font-size: 1.6em;
@@ -83,12 +82,12 @@
         @media (max-width: 480px) {
             .container {
                 width: 100%;
-                margin: 10px 0; /* Remove side margins for full width */
+                margin: 10px 0; /* This already ensures left alignment for smallest screens */
                 padding: 10px;
                 box-sizing: border-box;
             }
              header {
-                padding-left: 10px; /* Add some padding when container is full width */
+                padding-left: 10px; 
                 padding-right: 10px;
             }
             header h1 {
@@ -101,7 +100,7 @@
                 font-size: 0.85em;
             }
             footer {
-                padding-left: 10px; /* Add some padding when container is full width */
+                padding-left: 10px; 
                 padding-right: 10px;
             }
         }
