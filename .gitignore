@@ -1,0 +1,11 @@
+# Hugo
+/public/
+/resources/
+.hugo_build.lock
+hugo_stats.json # ถ้าใช้ hugo --printStats
+
+# Node / npm (ถ้ามีการใช้)
+# node_modules/
+# npm-debug.log*
+# yarn-debug.log*
+# yarn-error.log*
