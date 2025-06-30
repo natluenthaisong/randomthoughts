@@ -1,6 +1,8 @@
 baseURL = "https://natluenthaisong.github.io/randomthoughts/"
 languageCode = 'en-us'
 title = 'Random Thoughts'
+[params]
+  subtitle = "Where thoughts connect and life unfolds."
 theme = "hugo-paper"
 [params]
   defaultTheme = "light"
