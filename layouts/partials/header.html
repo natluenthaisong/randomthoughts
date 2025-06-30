@@ -2,6 +2,8 @@
   class="mx-auto flex h-[4.5rem] max-w-(--w) px-8 whitespace-nowrap lg:justify-center"
 >
   <div class="relative z-50 flex items-center ltr:mr-auto rtl:ml-auto">
+    <div class="flex items-center">
+
     <a
       class="-translate-y-[1px] text-2xl font-medium"
       href="{{- `` | absURL -}}"
@@ -12,8 +14,9 @@
       role="button"
       aria-label="Dark"
     ></div>
-  </div>
-  <div class="relative z-50 flex items-center ltr:mr-auto rtl:ml-auto">
+  
+    </div>
+
   {{- if .Site.Params.subtitle -}}
   <span class="subtitle text-sm opacity-80">
       {{ .Site.Params.subtitle }}
