@@ -41,7 +41,6 @@ And yet, he has not abandoned hope.
 He continues to plead, 
 hopeful that this one time, 
 his wish will be granted. \
-
 Good times for a change \
 See, the luck I've had \
 Can make a good man turn bad \
