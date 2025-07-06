@@ -40,21 +40,21 @@ of never having his desires fulfilled.
 And yet, he has not abandoned hope. 
 He continues to plead, 
 hopeful that this one time, 
-his wish will be granted.
+his wish will be granted. \
 
-Good times for a change
-See, the luck I’ve had
-Can make a good man turn bad
-So, please, please, please
-Let me, let me, let me
-Let me get what I want this time
-Haven’t had a dream in a long time
-See, the life I’ve had
-Can make a good man bad
-So, for once in my life
-Let me get what I want
-Lord knows, it would be the first time
-Lord knows, it would be the first time
+Good times for a change \
+See, the luck I've had \
+Can make a good man turn bad \
+So, please, please, please \
+Let me, let me, let me \
+Let me get what I want this time \
+Haven't had a dream in a long time \
+See, the life I've had \
+Can make a good man bad \
+So, for once in my life \
+Let me get what I want \
+Lord knows, it would be the first time \
+Lord knows, it would be the first time \
 
 The lyrics sound fragile, yet upon hearing them, we feel a surge of strength and hope, 
 If we listen with our heart and allow ourselves to be immersed in the feeling. 
