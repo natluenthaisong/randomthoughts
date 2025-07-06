@@ -55,7 +55,6 @@ So, for once in my life \
 Let me get what I want \
 Lord knows, it would be the first time \
 Lord knows, it would be the first time \
-
 The lyrics sound fragile, yet upon hearing them, we feel a surge of strength and hope, 
 If we listen with our heart and allow ourselves to be immersed in the feeling. 
 
