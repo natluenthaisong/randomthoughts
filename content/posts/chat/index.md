@@ -15,46 +15,52 @@ title = '5000 วันต่อมา... เมื่อทอมพบซั�
 </div>
 
 <div style="text-align: right;">
-  <p style="background-color: #dcf8c6; display: inline-block; padding: 6px 12px; border-radius: 18px; max-width: 70%; text-align: left; margin: 2px 0; margin-top: 4px;">สบายดีเลย... ในที่สุดก็ได้เป็นสถาปนิกจริงๆ แล้วนะ 😊 แต่งงานแล้วกับออทัมน์ มีลูกชายหนึ่งคน ชื่อวอลเตอร์ เขาซนเหมือนลิงเลยล่ะ แล้วคุณล่ะซัมเมอร์?</p>
+  <p style="background-color: #dcf8c6; display: inline-block; padding: 6px 12px; border-radius: 18px; max-width: 70%; text-align: left; margin: 2px 0; margin-top: 4px;">สบายดีเลย ได้เป็นสถาปนิกแล้ว... ในที่สุดนะ 😊</p>
+  <p style="background-color: #dcf8c6; display: inline-block; padding: 6px 12px; border-radius: 18px; max-width: 70%; text-align: left; margin: 2px 0; margin-top: 4px;">แต่งงานแล้วด้วย กับออทัมน์ มีลูกชายคนนึง ซนมาก แล้วคุณล่ะ?</p>
   <p style="font-size: 0.8em; color: grey;">อ่านแล้ว 13:19</p>
 </div>
 
 <div>
-  <p style="background-color: #f0f0f0; display: inline-block; padding: 6px 12px; border-radius: 18px; max-width: 70%; text-align: left; margin: 2px 0; margin-top: 4px;">ดีใจด้วยจริงๆ นะทอม! ในที่สุดฝันคุณก็เป็นจริง 😊 ฉันก็แต่งงานแล้วเหมือนกัน มีลูกสาวคนนึง ชื่อนอร่า ตอนนี้เปิดร้านทำเครื่องประดับเล็กๆ เป็นของตัวเอง... ชีวิตก็... เรียบง่ายดี</p>
+  <p style="background-color: #f0f0f0; display: inline-block; padding: 6px 12px; border-radius: 18px; max-width: 70%; text-align: left; margin: 2px 0; margin-top: 4px;">โห ดีใจด้วยนะทอม! สมกับที่พยายามมาตลอด</p>
+  <p style="background-color: #f0f0f0; display: inline-block; padding: 6px 12px; border-radius: 18px; max-width: 70%; text-align: left; margin: 2px 0; margin-top: 4px;">ฉันก็แต่งงานแล้วเหมือนกัน มีลูกสาว แล้วก็มีร้านเครื่องประดับเล็กๆ ของตัวเอง ชีวิตก็โอเคนะ เรียบๆ ดี</p>
   <p style="font-size: 0.8em; color: grey;">อ่านแล้ว 13:21</p>
 </div>
 
 <div style="text-align: right;">
-  <p style="background-color: #dcf8c6; display: inline-block; padding: 6px 12px; border-radius: 18px; max-width: 70%; text-align: left; margin: 2px 0; margin-top: 4px;">คุณรู้ไหม... ผมเคยคิดบ่อยๆ ว่าถ้าวันนั้นเราไม่เลิกกัน มันจะเป็นยังไง แต่พอมาถึงวันนี้ ผมกลับรู้สึกขอบคุณนะ</p>
+  <p style="background-color: #dcf8c6; display: inline-block; padding: 6px 12px; border-radius: 18px; max-width: 70%; text-align: left; margin: 2px 0; margin-top: 4px;">เคยคิดนะ ว่าถ้าเราไม่เลิกกันจะเป็นไง</p>
+  <p style="background-color: #dcf8c6; display: inline-block; padding: 6px 12px; border-radius: 18px; max-width: 70%; text-align: left; margin: 2px 0; margin-top: 4px;">แต่ตอนนี้... กลับรู้สึกขอบคุณมากกว่า</p>
   <p style="font-size: 0.8em; color: grey;">กำลังพิมพ์...</p>
 </div>
 
 <div>
-  <p style="background-color: #f0f0f0; display: inline-block; padding: 6px 12px; border-radius: 18px; max-width: 70%; text-align: left; margin: 2px 0; margin-top: 4px;">ขอบคุณเหรอ?</p>
+  <p style="background-color: #f0f0f0; display: inline-block; padding: 6px 12px; border-radius: 18px; max-width: 70%; text-align: left; margin: 2px 0; margin-top: 4px;">ขอบคุณ?</p>
   <p style="font-size: 0.8em; color: grey;">อ่านแล้ว 13:25</p>
 </div>
 
 <div style="text-align: right;">
-  <p style="background-color: #dcf8c6; display: inline-block; padding: 6px 12px; border-radius: 18px; max-width: 70%; text-align: left; margin: 2px 0; margin-top: 4px;">ใช่... ขอบคุณที่เรื่องของเรามันไม่ได้เป็นไปตามที่ผมคาดหวัง ตอนนั้นผมมองคุณเป็นภาพฝัน เป็นทุกอย่างที่ผมอยากให้เป็น จนลืมมองว่าจริงๆ แล้วคุณเป็นใคร... การอกหักครั้งนั้นมันทำให้ผมต้องกลับมาสร้าง 'แบบแปลน' ชีวิตของตัวเองใหม่หมดเลย</p>
+  <p style="background-color: #dcf8c6; display: inline-block; padding: 6px 12px; border-radius: 18px; max-width: 70%; text-align: left; margin: 2px 0; margin-top: 4px;">ใช่ ตอนนั้นผมเหมือนยึดติดกับภาพฝันเกินไปหน่อย</p>
+  <p style="background-color: #dcf8c6; display: inline-block; padding: 6px 12px; border-radius: 18px; max-width: 70%; text-align: left; margin: 2px 0; margin-top: 4px;">พอเจ็บครั้งนั้น เลยได้ตื่นมาอยู่กับความจริงซะที</p>
   <p style="font-size: 0.8em; color: grey;">อ่านแล้ว 13:27</p>
 </div>
 
 <div>
-  <p style="background-color: #f0f0f0; display: inline-block; padding: 6px 12px; border-radius: 18px; max-width: 70%; text-align: left; margin: 2px 0; margin-top: 4px;">ฉันก็ต้องขอโทษนะถ้าตอนนั้นเคยทำให้คุณรู้สึกแย่ ฉันเองก็ยังสับสน ไม่รู้ว่าตัวเองต้องการอะไรเหมือนกัน... จนกระทั่งเจอคนที่ทำให้ฉัน 'แน่ใจ' เหมือนที่คุณเคยบอกนั่นแหละ</p>
+  <p style="background-color: #f0f0f0; display: inline-block; padding: 6px 12px; border-radius: 18px; max-width: 70%; text-align: left; margin: 2px 0; margin-top: 4px;">ฉันก็ขอโทษนะถ้าตอนนั้นทำตัวงี่เง่าไปบ้าง</p>
   <p style="font-size: 0.8em; color: grey;">อ่านแล้ว 13:30</p>
 </div>
 
 <div style="text-align: right;">
-  <p style="background-color: #dcf8c6; display: inline-block; padding: 6px 12px; border-radius: 18px; max-width: 70%; text-align: left; margin: 2px 0; margin-top: 4px;">ไม่ต้องขอโทษเลยซัมเมอร์ เราแค่... เป็นส่วนหนึ่งในแบบร่างของกันและกันเท่านั้นเอง แบบร่างที่ไม่ได้ถูกสร้างจริง แต่ก็สอนให้เรารู้วิธีสร้างตึกที่แข็งแรงของเราเองในท้ายที่สุด</p>
+  <p style="background-color: #dcf8c6; display: inline-block; padding: 6px 12px; border-radius: 18px; max-width: 70%; text-align: left; margin: 2px 0; margin-top: 4px;">เฮ้ ไม่ต้องเลย</p>
+  <p style="background-color: #dcf8c6; display: inline-block; padding: 6px 12px; border-radius: 18px; max-width: 70%; text-align: left; margin: 2px 0; margin-top: 4px;">เราสองคนตอนนั้นก็แค่... ยังไม่พร้อมมั้ง</p>
+  <p style="background-color: #dcf8c6; display: inline-block; padding: 6px 12px; border-radius: 18px; max-width: 70%; text-align: left; margin: 2px 0; margin-top: 4px;">แต่สุดท้ายมันก็พาเรามาอยู่ตรงนี้ได้ ก็ดีแล้วนี่</p>
   <p style="font-size: 0.8em; color: grey;">อ่านแล้ว 13:31</p>
 </div>
 
 <div>
-  <p style="background-color: #f0f0f0; display: inline-block; padding: 6px 12px; border-radius: 18px; max-width: 70%; text-align: left; margin: 2px 0; margin-top: 4px;">คุณยังเปรียบเทียบทุกอย่างกับสถาปัตยกรรมเหมือนเดิมเลยนะ 😊 ดีใจที่ได้คุยกันนะทอม ต้องไปรับลูกแล้ว</p>
+  <p style="background-color: #f0f0f0; display: inline-block; padding: 6px 12px; border-radius: 18px; max-width: 70%; text-align: left; margin: 2px 0; margin-top: 4px;">😊 ดีใจที่ได้คุยกันนะทอม ต้องไปรับลูกแล้ว</p>
   <p style="font-size: 0.8em; color: grey;">อ่านแล้ว 13:32</p>
 </div>
 
 <div style="text-align: right;">
-  <p style="background-color: #dcf8c6; display: inline-block; padding: 6px 12px; border-radius: 18px; max-width: 70%; text-align: left; margin: 2px 0; margin-top: 4px;">เช่นกันซัมเมอร์... ดูแลตัวเองนะ</p>
+  <p style="background-color: #dcf8c6; display: inline-block; padding: 6px 12px; border-radius: 18px; max-width: 70%; text-align: left; margin: 2px 0; margin-top: 4px;">เช่นกัน... ดูแลตัวเองนะ</p>
   <p style="font-size: 0.8em; color: grey;">อ่านแล้ว 13:33</p>
 </div>
