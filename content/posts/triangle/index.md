@@ -1,5 +1,6 @@
 +++
 date = '2025-09-09T20:06:07+07:00'
+draft = true
 title = 'Triangle'
 +++
 
